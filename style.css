@@ -1,0 +1,29 @@
+.buttons{
+    width: 250px;
+    height: fit-content;
+    color: black;
+    background-color: white;
+    font-size: 25px;
+    font-weight: bolder;
+    border-radius: 50px;
+}
+
+h1{
+    background-color:black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+}
+
+.homeButton{
+    width: 50ox;
+    height: fit-content;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    font-weight: bolder;
+     border-radius: 5px;
+     float: right;
+     margin-top: -10px;
+     margin-right: 10px;
+}
